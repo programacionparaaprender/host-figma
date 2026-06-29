@@ -4,6 +4,10 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Development server
 
+## curso
+>- https://www.udemy.com/course/enfoque-bem-y-metodologia-atomic-design/learn/lecture/40255918/?udfrontends=true
+
+
 ### netlify
 >- dist/host-figma/browser
 
